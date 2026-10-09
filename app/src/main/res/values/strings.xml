@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WPS for Pad Patcher</string>
+    <string name="module_description">仅对 WPS for Pad 模拟小米厂商，并让设备有效性检查返回成功。需要支持 libxposed API 102 和 Native Hook 的 LSPosed。</string>
+</resources>

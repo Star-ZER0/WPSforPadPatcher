@@ -1,0 +1,6 @@
+{
+    global:
+        native_init;
+        Java_cc_star0_xposed_wpsforpadpatcher_NativeBridge_*;
+    local: *;
+};
